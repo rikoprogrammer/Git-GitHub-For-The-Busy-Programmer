@@ -16,7 +16,7 @@ To install Git visit : https://git-scm.com/downloads <br><br>
  <li>To clone a repositoy, just open your Git app and then type git clone repository URL </li>
  <li>To get the url of any repository just open that repository and on your right you will see an option called code,
  click on it and then click the save icon.</li>
- <ol>
+ </ol>
  ## Working on your own project repository
  After cloning your repository, you can now modify your files locally, edit and improve your code.<br><br>
  Once done you need to stage your files for committing on Github.<br><br>
