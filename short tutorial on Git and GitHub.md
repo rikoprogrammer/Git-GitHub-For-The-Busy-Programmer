@@ -7,13 +7,13 @@ Next you will need to install Git on your machine. Git will help you to communic
 To sign up for a free github account please visit : https://github.com/join <br>
 To install Git visit : https://git-scm.com/downloads <br><br>
 
-1.Now that you have an account with Github and you have Git installed on your machine, we can begin.
-2.When we host our code files on GitHub, there are hosted in a special directory called a repository
+1.Now that you have an account with Github and you have Git installed on your machine, we can begin.<br>
+2.When we host our code files on GitHub, there are hosted in a special directory called a repository.<br>
 3.To create your first repositoy on Github just log in and then on your right you will see a + symbol,
- click on it and it will give you an option to craete a new repository, just give it a name and you can leave other options with the defaults.
- 4.Just one thing to remember is that this repository is hosted on the server not on your machine.
- 5.To have a copy on your machine that you will be working with, you have to clone this repository.
- 6.To clone a repositoy, just open your Git app and then type git clone repository URL.
+ click on it and it will give you an option to craete a new repository, just give it a name and you can leave other options with the defaults.<br>
+ 4.Just one thing to remember is that this repository is hosted on the server not on your machine.<br>
+ 5.To have a copy on your machine that you will be working with, you have to clone this repository.<br>
+ 6.To clone a repositoy, just open your Git app and then type git clone repository URL.<br>
  7.To get the url of any repository just open that repository and on your right you will see an option called code,
  click on it and then click the save icon.
  ## Working on your own project repository
