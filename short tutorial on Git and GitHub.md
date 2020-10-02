@@ -14,7 +14,25 @@ To create your first repositoy on Github just log in and then on your right you 
  To have a copy on your machine that you will be working with, you have to clone this repository.<br><br>
  To clone a repositoy, just open your Git app and then type git clone repository URL <br><br>
  To get the url of any repository just open that repository and on your right you will see an option called code,<br><br>
- click on it and then click the save icon as shown in this image <br><br>![](git/ learn.png)<br><br>
+ click on it and then click the save icon as shown in this image <br>![](git/ learn.png)<br><br>
+ ## Working on your own project repository
+ After cloning your repository, you can now modify your files locally, edit and improve your code.<br><br>
+ Once done you need to stage your files for committing on Github.<br><br>
+ You use *git add filename.extension* to stage a particular file or *git add .* to stage all files.<br><br>
+ Next commit your files with *git commit -m"fix bug"*. Give an imperative commit message,<br>
+ to help the future you or someone else understand why you made the change.<br><br>
+ Finally push your files to the server with *git push origin master* <br><br>
+ ## Working/contributing to some other project/repository
+ When working on a collaborative project you need to first clone the project repository, work on your files, fetch and merge other peoples work, <br> then finally push your files.<br><br>
+ Use the below workflow.<br><br>
+ ### Clone the repository
+ *git clone repository url* <br>
+ ### work on your files and then fetch and merge work done by others
+ *git fetch origin*<br>
+ *git merge origin/master*<br>
+ ### Finally push your work to the server
+ *git push origin master*
+
 
 
 
