@@ -13,7 +13,7 @@ To create your first repositoy on Github just log in and then on your right you 
  Just one thing to remember is that this repository is hosted on the server not on your machine.<br><br>
  To have a copy on your machine that you will be working with, you have to clone this repository.<br><br>
  To clone a repositoy, just open your Git app and then type git clone repository URL <br><br>
- To get the url of any repository just open that repository and on your right you will see an option called code,<br><br>
+ To get the url of any repository just open that repository and on your right you will see an option called code,<br>
  click on it and then click the save icon.<br>
  ## Working on your own project repository
  After cloning your repository, you can now modify your files locally, edit and improve your code.<br><br>
