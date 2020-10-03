@@ -4,7 +4,7 @@ Whether you are a software engineer or just working in any IT related fields thi
 First things first, in an endeavor to version control your code you will need a hosting server in this case GitHub(we have others).<br>
 Next you will need to install Git on your machine. Git will help you to communicate with your hosting server.<br>
 <br>
-To sign up for a free github account please visit : https://github.com/join <br>
+To sign up for a free github account please visit : https://github.com/ <br>
 To install Git visit : https://git-scm.com/downloads <br><br>
 
 1.Now that you have an account with Github and you have Git installed on your machine, we can begin.<br>
@@ -32,7 +32,10 @@ To install Git visit : https://git-scm.com/downloads <br><br>
  *git fetch origin*<br>
  *git merge origin/master*<br>
  ### Finally push your work to the server
- *git push origin master*
+ *git push origin master*<br>
+
+For a tutorial written by GitHub themselves which is frequently updated please check out this link <br>
+https://guides.github.com/activities/hello-world/
 
 
 
