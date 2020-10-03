@@ -34,9 +34,8 @@ To install Git visit : https://git-scm.com/downloads <br><br>
  ### Finally push your work to the server
  *git push origin master*<br><br>
  Sometimes you just want to have a copy of other people's repositories either locally on your machine or on your github account.<br>
- To do this either clone those repositories or fork them
-
- To keep these repositories up to date you to constantly keep them in sync with the original ones. Use the below commands to do that.<br>
+ To do this either clone those repositories or fork them.<br>
+ To keep these repositories up to date you have to constantly keep them in sync with the original ones. Use the below commands to do that.<br>
  First make sure you change your working directory in Git to point to the specific repository you wanna keep in sync, then issue the following,<br>
  *git fetch --all*<br>
  *git fetch --tags*<br>
