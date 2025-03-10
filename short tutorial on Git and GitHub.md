@@ -19,27 +19,27 @@ To install Git visit : https://git-scm.com/downloads <br><br>
  ## Working on your own project repository
  After cloning your repository, you can now modify your files locally, edit and improve your code.<br><br>
  Once done you need to stage your files for committing on Github.<br><br>
- You use *git add filename.extension* to stage a particular file or *git add .* to stage all files.<br><br>
- Next commit your files with *git commit -m"fix bug"*. Give an imperative commit message,<br>
+ You use ```git add filename.extension``` to stage a particular file or ```git add .``` to stage all files.<br><br>
+ Next commit your files with ```git commit -m "fix bug"```. Give an imperative commit message,<br>
  to help the future you or someone else understand why you made the change.<br><br>
- Finally push your files to the server with *git push origin master* <br>
+ Finally push your files to the server with ```git push origin master``` <br>
  ## Working/contributing to some other project/repository
  When working on a collaborative project you need to first clone the project repository, work on your files, fetch and merge other peoples work, <br> then finally push your files.<br><br>
  Use the below workflow.<br>
  ### Clone the repository
- *git clone repository url* <br>
+ ```git clone repository url``` <br>
  ### Work on your files and then fetch and merge work done by others
- *git fetch origin*<br>
- *git merge origin/master*<br>
+ ```git fetch origin```<br>
+ ```git merge origin/master```<br>
  ### Finally push your work to the server
- *git push origin master*<br><br>
+ ```git push origin master```<br><br>
  Sometimes you just want to have a copy of other people's repositories either locally on your machine or on your github account.<br>
  To do this either clone those repositories or fork them.<br>
  To keep these repositories up to date you have to constantly keep them in sync with the original ones. Use the below commands to do that.<br>
  First make sure you change your working directory in Git to point to the specific repository you wanna keep in sync, then issue the following,<br>
- *git fetch --all*<br>
- *git fetch --tags*<br>
- *git merge --hard origin/master*<br>
+ ```git fetch --all```<br>
+ ```git fetch --tags```<br>
+ ```git merge --hard origin/master```<br>
 
 
 
