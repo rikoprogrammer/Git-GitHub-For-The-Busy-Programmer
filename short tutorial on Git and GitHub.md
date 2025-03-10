@@ -1,8 +1,8 @@
 # SHORT TUTORIAL ON GIT AND GITHUB FOR THE BUSY PROGRAMMER
 In the world of software development, people use version control systems to keep track of their source code.<br>
-Whether you are a software engineer or just working in any IT related fields this tutorial is for you.<br>
-First things first, in an endeavor to version control your code you will need a hosting server in this case GitHub(we have others).<br>
-Next you will need to install Git on your machine. Git will help you to communicate with your hosting server.<br>
+Whether you are a software engineer/Data scientist or just working in any IT related fields this tutorial is for you.<br>
+First things first, in an endeavor to version control your code you will need a hosting server in this case GitHub(we have others eg GitLab).<br>
+Next you will need to install Git on your machine. Git will help you to communicate with your hosting server. For R programmers you can do the communication via a graphical user interface in Rstudio if you like. <br>
 <br>
 To sign up for a free github account please visit : https://github.com/ <br>
 To install Git visit : https://git-scm.com/downloads <br><br>
